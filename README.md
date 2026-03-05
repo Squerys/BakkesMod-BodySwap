@@ -5,6 +5,7 @@ How to install BakkesMod with body swap:
 Replace dll at : %AppData%\bakkesmod\bakkesmod\dll\bakkesmod.dll
 
 Patch list to do it yourself to do it yourself if you don't trust the dll
+```
 --- Patchs à faire -----
 ///// ARRIVE A FULL STQBLE ET FONCTIONNEL DANS LE MENU
 ---------------------------------
@@ -31,6 +32,6 @@ effet: Kill le filtre qui equipe rien si c'est l'id 0
 1801132CF : nop le jump
 Effet: Empeche le flag Shouldskip, ingame pour les 2 équipes
 -------------------------
-
+```
 Second DLL is alpha console with custom cars working in online mode and patrons features unlocked (tho some are unstable and im too lazy to fix), but custom cars working without problem
 
